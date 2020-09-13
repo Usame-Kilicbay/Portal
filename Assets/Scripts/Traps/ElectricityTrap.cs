@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class ElectricTrap : Trap
+public class ElectricityTrap : Trap
 {
 	private void OnTriggerEnter(Collider other)
 	{

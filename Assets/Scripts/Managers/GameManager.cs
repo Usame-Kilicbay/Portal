@@ -42,6 +42,7 @@ public class GameManager : MonoBehaviour
 
 	private static void LevelCompleted()
 	{
+		EventManager.Instance.SaveLevelID();
 		EventManager.Instance.LevelCompleted();
 	}
 	private static void LevelFailed()
