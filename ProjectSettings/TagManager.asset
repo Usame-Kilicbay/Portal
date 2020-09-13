@@ -13,12 +13,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ball
+  - Wall
+  - Platform
+  - Trap/Bouncer
+  - Trap/Electricity
+  - Portal
   - 
   - 
   - 
